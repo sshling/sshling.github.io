@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-Some information about you!
+刚刚明白自己想做什么，也刚刚明白自己将要做什么，路途漫漫，继续努力  ...
+2006 十年光阴，一晃而过
 
-### More Information
+###更多关于我
 
-A place to include any other types of information that you'd like to include about yourself. 
+出去写写代码，还喜欢打打球，喜欢美女，:-D
 
-### Contact me
+### 联系我
 
-[email@domain.com](mailto:email@domain.com)
+[sshling@gmail.com](mailto:sshling@gmail.com)
