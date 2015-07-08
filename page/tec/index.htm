@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>首页</title>
+</head>
+<body>
+关键字：<input type="text" class="search">
+<select class="search">
+	<option>=====</option>
+	<option>java</option>
+	<option>redis</option>
+</select>
+
+<div title="http://segmentfault.com/search?q=" class='tec'>segmentfault</div>	
+	
+	
+<div id="msg"></div>	
+<script src="http://libs.useso.com/js/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(".search").change(function(){
+	window.search=$(this).val();
+});
+$(".tec").click(function(){
+	window.open($(this).attr("title")+search);
+})
+
+</script>
+</body>
+</html>
