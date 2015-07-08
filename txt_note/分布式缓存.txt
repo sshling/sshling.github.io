@@ -1,0 +1,32 @@
+Twemproxy  Twitter开源的一个redis和memcache代理服务器。
+	缺点：静态的分布式Redis方案，扩缩容对运维要求高，很难平滑。
+Codis :尽量兼容Twemproxy，加上数据迁移的功能以实现扩缩容，最终替换Twemproxy。
+Redis Cluster :官方，与Codis同期发布。
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
